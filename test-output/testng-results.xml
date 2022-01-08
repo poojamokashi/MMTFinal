@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="7" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-07T15:48:45 IST" name="Default suite" finished-at="2022-01-07T15:54:41 IST" duration-ms="356110">
+    <groups>
+    </groups>
+    <test started-at="2022-01-07T15:48:45 IST" name="Default test" finished-at="2022-01-07T15:54:41 IST" duration-ms="356110">
+      <class name="com.Test_Cases.Test_Search_Flights">
+        <test-method is-config="true" signature="extentReportSetUp()[pri:0, instance:com.Test_Cases.Test_Search_Flights@7714e963]" started-at="2022-01-07T15:48:45 IST" name="extentReportSetUp" finished-at="2022-01-07T15:48:45 IST" duration-ms="392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentReportSetUp -->
+        <test-method is-config="true" signature="browserSetUp()[pri:0, instance:com.Test_Cases.Test_Search_Flights@7714e963]" started-at="2022-01-07T15:48:45 IST" name="browserSetUp" finished-at="2022-01-07T15:49:34 IST" duration-ms="48988" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetUp -->
+        <test-method signature="LoginTest()[pri:0, instance:com.Test_Cases.Test_Search_Flights@7714e963]" started-at="2022-01-07T15:49:34 IST" name="LoginTest" finished-at="2022-01-07T15:49:36 IST" duration-ms="1821" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="close_window()[pri:0, instance:com.Test_Cases.Test_Search_Flights@7714e963]" started-at="2022-01-07T15:49:36 IST" name="close_window" finished-at="2022-01-07T15:49:37 IST" duration-ms="791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_window -->
+        <test-method is-config="true" signature="browserSetUp()[pri:0, instance:com.Test_Cases.Test_Search_Flights@7714e963]" started-at="2022-01-07T15:49:37 IST" name="browserSetUp" finished-at="2022-01-07T15:50:26 IST" duration-ms="48951" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetUp -->
+        <test-method signature="m_flights_page()[pri:0, instance:com.Test_Cases.Test_Search_Flights@7714e963]" started-at="2022-01-07T15:50:26 IST" name="m_flights_page" finished-at="2022-01-07T15:50:32 IST" duration-ms="6886" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m_flights_page -->
+        <test-method is-config="true" signature="close_window()[pri:0, instance:com.Test_Cases.Test_Search_Flights@7714e963]" started-at="2022-01-07T15:50:32 IST" name="close_window" finished-at="2022-01-07T15:50:33 IST" duration-ms="860" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_window -->
+        <test-method is-config="true" signature="browserSetUp()[pri:0, instance:com.Test_Cases.Test_Search_Flights@7714e963]" started-at="2022-01-07T15:50:33 IST" name="browserSetUp" finished-at="2022-01-07T15:51:22 IST" duration-ms="48637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetUp -->
+        <test-method signature="phLogin()[pri:0, instance:com.Test_Cases.Test_Search_Flights@7714e963]" started-at="2022-01-07T15:51:22 IST" name="phLogin" finished-at="2022-01-07T15:51:26 IST" duration-ms="3813" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- phLogin -->
+        <test-method is-config="true" signature="close_window()[pri:0, instance:com.Test_Cases.Test_Search_Flights@7714e963]" started-at="2022-01-07T15:51:26 IST" name="close_window" finished-at="2022-01-07T15:51:27 IST" duration-ms="854" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_window -->
+        <test-method is-config="true" signature="browserSetUp()[pri:0, instance:com.Test_Cases.Test_Search_Flights@7714e963]" started-at="2022-01-07T15:51:27 IST" name="browserSetUp" finished-at="2022-01-07T15:52:16 IST" duration-ms="49526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetUp -->
+        <test-method signature="searchFlights()[pri:0, instance:com.Test_Cases.Test_Search_Flights@7714e963]" started-at="2022-01-07T15:52:16 IST" name="searchFlights" finished-at="2022-01-07T15:53:01 IST" duration-ms="44776" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchFlights -->
+        <test-method is-config="true" signature="close_window()[pri:0, instance:com.Test_Cases.Test_Search_Flights@7714e963]" started-at="2022-01-07T15:53:01 IST" name="close_window" finished-at="2022-01-07T15:53:02 IST" duration-ms="1071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_window -->
+        <test-method is-config="true" signature="browserSetUp()[pri:0, instance:com.Test_Cases.Test_Search_Flights@7714e963]" started-at="2022-01-07T15:53:02 IST" name="browserSetUp" finished-at="2022-01-07T15:53:52 IST" duration-ms="50447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetUp -->
+        <test-method signature="v_booking_cred()[pri:0, instance:com.Test_Cases.Test_Search_Flights@7714e963]" started-at="2022-01-07T15:53:52 IST" name="v_booking_cred" finished-at="2022-01-07T15:54:39 IST" duration-ms="46935" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- v_booking_cred -->
+        <test-method is-config="true" signature="close_window()[pri:0, instance:com.Test_Cases.Test_Search_Flights@7714e963]" started-at="2022-01-07T15:54:39 IST" name="close_window" finished-at="2022-01-07T15:54:41 IST" duration-ms="1296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_window -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.Test_Cases.Test_Search_Flights@7714e963]" started-at="2022-01-07T15:54:41 IST" name="afterMethod" finished-at="2022-01-07T15:54:41 IST" duration-ms="671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.Test_Cases.Test_Search_Flights -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
